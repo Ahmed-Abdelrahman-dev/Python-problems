@@ -1,5 +1,5 @@
 '''
-Create a function that takes x,y and prints all the number that can be divide by y from x to 100
+Create a function that takes x,y and prints all the number that can be divided by y from x to 100
 '''
 def divided_by(x,y):
     result = []
